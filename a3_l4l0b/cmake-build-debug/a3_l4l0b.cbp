@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a3_l4l0b"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a3_l4l0b">
+				<Option output="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cmake-build-debug/a3_l4l0b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 a3_l4l0b"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a3_l4l0b/fast">
+				<Option output="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cmake-build-debug/a3_l4l0b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 a3_l4l0b/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Austin/Downloads/CPSC\ 317/a3_l4l0b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/CSftp.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cdupcommand.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cdupcommand.h">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cwdcommand.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cwdcommand.h">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/dir.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/dir.h">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/modecommand.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/modecommand.h">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/strucommand.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/strucommand.h">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/typecommand.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/typecommand.h">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usage.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usage.h">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usercommand.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usercommand.h">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.c">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h">
+			<Option target="a3_l4l0b"/>
+		</Unit>
+		<Unit filename="/Users/Austin/Downloads/CPSC 317/a3_l4l0b/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

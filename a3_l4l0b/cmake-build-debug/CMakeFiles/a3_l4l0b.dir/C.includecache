@@ -1,0 +1,176 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/CSftp.c
+sys/types.h
+-
+sys/socket.h
+-
+stdio.h
+-
+dir.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/dir.h
+usage.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usage.h
+stdlib.h
+-
+netinet/in.h
+-
+string.h
+-
+unistd.h
+-
+sys/ioctl.h
+-
+ctype.h
+-
+arpa/inet.h
+-
+usercommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usercommand.h
+write.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h
+cwdcommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cwdcommand.h
+cdupcommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cdupcommand.h
+typecommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/typecommand.h
+modecommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/modecommand.h
+strucommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/strucommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cdupcommand.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+write.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h
+cdupcommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cdupcommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cdupcommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cwdcommand.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+write.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h
+cwdcommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cwdcommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/cwdcommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/dir.c
+dirent.h
+-
+sys/types.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+dir.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/dir.h
+sys/stat.h
+-
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/dir.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/modecommand.c
+stdio.h
+-
+ctype.h
+-
+memory.h
+-
+write.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h
+modecommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/modecommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/modecommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/strucommand.c
+stdio.h
+-
+ctype.h
+-
+memory.h
+-
+write.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h
+strucommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/strucommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/strucommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/typecommand.c
+stdio.h
+-
+ctype.h
+-
+memory.h
+-
+write.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h
+typecommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/typecommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/typecommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usage.c
+sys/types.h
+-
+stdio.h
+-
+usage.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usage.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usage.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usercommand.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+usercommand.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usercommand.h
+write.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/usercommand.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.c
+stdio.h
+-
+unistd.h
+-
+write.h
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h
+
+/Users/Austin/Downloads/CPSC 317/a3_l4l0b/write.h
+
